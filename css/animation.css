@@ -1,0 +1,8 @@
+@keyframes abc {
+  from {
+    color: red;
+  }
+  to {
+    color: blue;
+  }
+}
